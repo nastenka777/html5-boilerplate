@@ -231,7 +231,7 @@ textarea {
   img {
     page-break-inside: avoid;
   }
-
+/* Styles for headings */
   p,
   h2,
   h3 {
